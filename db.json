@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ujang Kodrat",
+      "email": "ujang@mail.com",
+      "password": "Admin123",
+      "isVerify": true
+    },
+    {
+      "name": "sadadsasd",
+      "email": "ujangcodot@mail.com",
+      "password": "asdasd123",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "sadadsasd",
+      "email": "ujangcoddddt@mail.com",
+      "password": "asdasd123",
+      "isVerify": false,
+      "id": 3
+    }
+  ]
+}
